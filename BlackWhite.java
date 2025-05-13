@@ -15,3 +15,4 @@ class Solution {
         return result;
     }
 }
+//Explain to be what is balck and white
