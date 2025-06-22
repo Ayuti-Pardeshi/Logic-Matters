@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Non repeating character code
 int main() {
     string s = "aabbcddce";
     int count[256] = {0};  // for all characters
