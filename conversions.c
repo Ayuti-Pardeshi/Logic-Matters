@@ -1,5 +1,6 @@
 // C program to demonstrate Boolean to String
 // Conversion using conditional statements
+//in C language doable
 #include <stdbool.h>
 #include <stdio.h>
 int main()
