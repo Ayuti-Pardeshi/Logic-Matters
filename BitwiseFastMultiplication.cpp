@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//p
+//bit
 int main()
 {
     int n = 7;
